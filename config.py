@@ -1,0 +1,1 @@
+open_weather_token = "7cb19f6db9f8ca2185d5e5d8d6d175c2"
